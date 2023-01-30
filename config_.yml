@@ -1,2 +1,7 @@
+# Information about where the book exists on the web
+repository:
+  url                       : https://github.com/nkeriven/ensta-mt12  # Online location of your book
+  path_to_book              : notebooks
+
 launch_buttons:
   colab_url: "https://colab.research.google.com"
