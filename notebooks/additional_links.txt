@@ -1,0 +1,6 @@
+Great course with many examples:
+UvA notebooks: https://uvadlc-notebooks.readthedocs.io/en/latest/
+
+Lightning:
+https://lightning.ai/docs/pytorch/stable/starter/introduction.html
+https://lightning.ai/docs/pytorch/stable/tutorials.html
